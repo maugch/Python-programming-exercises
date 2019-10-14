@@ -1,7 +1,7 @@
 
 
 '''
-List all questions and hints from 100exercices.txt
+List all questions and hints from 100exercises.txt
 
 The file is a bit of a mess, so it's not easy to split it.
 3.	Questions
@@ -15,7 +15,7 @@ Example:
 Solution:
 '''
 
-filename = '100exercices.txt'
+filename = '100exercises.txt'
 allquestions = []
 
 def main():
